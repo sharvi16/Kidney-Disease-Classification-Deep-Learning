@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/kidneyDiseaseClassification.egg-info/PKG-INFO
+src/kidneyDiseaseClassification.egg-info/SOURCES.txt
+src/kidneyDiseaseClassification.egg-info/dependency_links.txt
+src/kidneyDiseaseClassification.egg-info/top_level.txt
+src/kidneyDiseaseClassification/config/configuration.py
